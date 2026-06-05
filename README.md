@@ -6,6 +6,11 @@ A machine learning project that classifies emails as phishing or
 legitimate using Natural Language Processing (NLP) and Logistic 
 Regression.
 
+## 📥 Dataset
+Download CEAS_08.csv from Kaggle and place it in the root folder:
+https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset
+
+
 ## 🎯 Project Overview
 Phishing emails are one of the most common cybersecurity threats today.
 This project builds a classifier trained on 39,154 real emails from the 
